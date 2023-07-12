@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Oii!+Sou+a+MARIA+EDUARDA;Tenho+21+anos;Sou+Estudante+de+Ciência+da+Computação;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Oii!+Sou+a+MARIA+EDUARDA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
